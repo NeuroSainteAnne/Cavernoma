@@ -1,6 +1,7 @@
 ### 
 # Cavernoma.py
 # Tool for measuring cavernoma volume and signal intensity after normalisation
+# Usage : python ComputeStatistics.py
 #
 
 import nibabel as nib
